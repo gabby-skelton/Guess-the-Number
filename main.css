@@ -1,0 +1,16 @@
+body {
+  align-items: center;
+  background-color: #114e8a;
+}
+
+div {
+  width: 30%;
+  background-color: #fff;
+  padding: 2%;
+  margin-top: 25vh;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+button, #message {
+  margin-top: 3%;
+}
